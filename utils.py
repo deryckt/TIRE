@@ -320,7 +320,7 @@ def plot_cp(distances, parameters, window_size, time_start, time_stop, plot_prom
     ax.set_xlim(time_start,time_stop)
     ax.set_ylim(0,1.5*max(z))
     plt.xlabel("time")
-    plt.ylabel("distance")
+    plt.ylabel("dissimilarity")
 
     ax.plot(peaks,distances[peaks],'ko')
 
