@@ -25,14 +25,16 @@ domain = "both" #choose from: TD (time domain), FD (frequency domain) or both
 intermediate_dim_TD=0
 latent_dim_TD=1 #h^TD in paper
 nr_shared_TD=1 #s^TD in paper
-nr_ae_TD=3 #K in paper
+K_TD = 2 #as in paper
+nr_ae_TD= K_TD+1 #number of parallel AEs = K+1
 loss_weight_TD=1 #lambda_TD in paper
 
 #parameters FD
 intermediate_dim_FD=10
 latent_dim_FD=1 #h^FD in paper
 nr_shared_FD=1 #s^FD in paper
-nr_ae_FD=3 #K in paper
+K_FD = 2 #as in paper
+nr_ae_FD=K_FD+1 #number of parallel AEs = K+1
 loss_weight_FD=1 #lambda^FD in paper
 nfft = 30 #number of points for DFT
 norm_mode = "timeseries" #for calculation of DFT, should the timeseries have mean zero or each window?
