@@ -12,7 +12,13 @@ The authors of this paper are:
 
 All authors are affiliated to LEUVEN.AI - KU Leuven institute for AI. Note that work based on TIRE should cite our paper: 
 
-    (to be added)
+    @misc{ryck2020change,
+    title={Change Point Detection in Time Series Data using Autoencoders with a Time-Invariant Representation},
+    author={Tim De Ryck and Maarten De Vos and Alexander Bertrand},
+    year={2020},
+    eprint={2008.09524},
+    archivePrefix={arXiv},
+    primaryClass={cs.LG}}
 
 ## Abstract
 
