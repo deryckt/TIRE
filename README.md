@@ -4,11 +4,11 @@
 
 The authors of this paper are:
 
-- Tim De Ryck ([STADIUS](https://www.esat.kuleuven.be/stadius/), Dept. Electrical Engineering, KU Leuven; now [SAM](https://math.ethz.ch/sam), Dept. Mathematics, ETH Zürich)
+- [Tim De Ryck](https://math.ethz.ch/sam/the-institute/people.html?u=deryckt) ([STADIUS](https://www.esat.kuleuven.be/stadius/), Dept. Electrical Engineering, KU Leuven; now [SAM](https://math.ethz.ch/sam), Dept. Mathematics, ETH Zürich)
 - [Maarten De Vos](https://www.esat.kuleuven.be/stadius/person.php?id=203) ([STADIUS](https://www.esat.kuleuven.be/stadius/), Dept. Electrical Engineering, KU Leuven and Dept. Development and Regeneration, KU Leuven)
 - [Alexander Bertrand](https://www.esat.kuleuven.be/stadius/person.php?id=331) ([STADIUS](https://www.esat.kuleuven.be/stadius/), Dept. Electrical Engineering, KU Leuven)
 
-All authors are affiliated to LEUVEN.AI - KU Leuven institute for AI. Note that work based on TIRE should cite our paper: 
+All authors are affiliated to [LEUVEN.AI - KU Leuven institute for AI](https://ai.kuleuven.be). Note that work based on TIRE should cite our paper: 
 
     @misc{ryck2020change,
     title={Change Point Detection in Time Series Data using Autoencoders with a Time-Invariant Representation},
