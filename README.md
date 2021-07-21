@@ -1,6 +1,6 @@
 # TIRE
 
-**TIRE** is an autoencoder-based change point detection algorithm for time series data that uses a TIme-Invariant Representation (TIRE). More information can be found in the 2020 preprint *Change Point Detection in Time Series Data using Autoencoders with a Time-Invariant Representation*. 
+**TIRE** is an autoencoder-based change point detection algorithm for time series data that uses a TIme-Invariant Representation (TIRE). More information can be found in the paper *Change Point Detection in Time Series Data using Autoencoders with a Time-Invariant Representation*, published in *IEEE Transactions on Signal Processing* in 2021. 
 
 The authors of this paper are:
 
@@ -10,13 +10,13 @@ The authors of this paper are:
 
 All authors are affiliated to [LEUVEN.AI - KU Leuven institute for AI](https://ai.kuleuven.be). Note that work based on TIRE should cite our paper: 
 
-    @misc{ryck2020change,
+    @article{deryck2021change,
     title={Change Point Detection in Time Series Data using Autoencoders with a Time-Invariant Representation},
-    author={Tim De Ryck and Maarten De Vos and Alexander Bertrand},
-    year={2020},
-    eprint={2008.09524},
-    archivePrefix={arXiv},
-    primaryClass={cs.LG}}
+    author={De Ryck, Tim and De Vos, Maarten and Bertrand, Alexander},
+    journal={IEEE Transactions on Signal Processing},
+    year={2021},
+    publisher={IEEE}
+    }
 
 ## Abstract
 
